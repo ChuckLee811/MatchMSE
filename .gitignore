@@ -1,0 +1,9 @@
+*.sln
+Matching_MSEProcess/Matching_MSEProcess.v11.suo
+*.csv
+Matching_MSEProcess/Matching_MSEProcess/bin/Debug/Matching_MSEProcess.exe
+*.config
+Matching_MSEProcess/Matching_MSEProcess/bin/Debug/Matching_MSEProcess.pdb
+*.exe
+Matching_MSEProcess/Matching_MSEProcess/bin/Debug/Matching_MSEProcess.vshost.exe.manifest
+Matching_MSEProcess/Matching_MSEProcess/Matching_MSEProcess.csproj
