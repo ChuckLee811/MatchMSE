@@ -17,6 +17,8 @@ namespace Matching_MSEProcess
         private float[] ModelArr;
         private float[] PatternArr;
         private float[] ResultArr;
+
+        //The size of buffer Data
         private int buffer_size = 1600 * 800;
         public Form1()
         {
