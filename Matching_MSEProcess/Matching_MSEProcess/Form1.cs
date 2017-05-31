@@ -31,6 +31,7 @@ namespace Matching_MSEProcess
             PatternArr = new float[buffer_size];
             ResultArr = new float[buffer_size];
 
+            //Open the Dialog
             OpenFileDialog FolderBrowserDialog1 = new OpenFileDialog();
             if (FolderBrowserDialog1.ShowDialog() == DialogResult.Cancel)
             {
