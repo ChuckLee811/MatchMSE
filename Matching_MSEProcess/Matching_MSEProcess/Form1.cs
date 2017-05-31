@@ -27,6 +27,7 @@ namespace Matching_MSEProcess
 
         private void btnFileModdle_Click(object sender, EventArgs e)
         {
+            //for Ini The buffer size
             ModelArr = new float[buffer_size];
             PatternArr = new float[buffer_size];
             ResultArr = new float[buffer_size];
