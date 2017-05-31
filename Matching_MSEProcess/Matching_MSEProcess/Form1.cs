@@ -49,6 +49,7 @@ namespace Matching_MSEProcess
                     bool TransResult = double.TryParse(EachValue[j], out LaserValue);
                     if (TransResult)
                     {
+                        // Test
                         if (LaserValue < -5) LaserValue = -999;
                         //if (LaserValue > 16.5) LaserValue = -999;
                         ModelArr[i * EachValue.Length + j] = (float)LaserValue;
